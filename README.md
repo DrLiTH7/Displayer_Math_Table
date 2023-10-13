@@ -1,6 +1,9 @@
 # Displayer_Math_Table
 Um programa que mostra a tabuada da operação desejada e do número desejado
 
+## Uso
+Para usá-lo, basta executar o arquivo main.py, e interagir com ele no terminal.
+
 ### Operações disponíveis: 
 Adição, Subtração e Multiplicação
 
